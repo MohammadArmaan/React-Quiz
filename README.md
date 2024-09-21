@@ -17,7 +17,7 @@ The React Quiz component fetches questions and related data from an Express-base
 
 ## Live Preview
 
-You can see the live version of this component in action at [React Quiz](https://react-quiz-armaan.app).
+You can see the live version of this component in action at [React Quiz](https://react-quiz-arman.vercel.app/).
 
 ## Author
 
